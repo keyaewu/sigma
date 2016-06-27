@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
-    <section unique-name="ece_frontpage" source="ece-auto-gen" sourceid="f636a9d0-6e27-4928-8829-b1437b10ef8a" name="Template Set" mirror-source="false">
+    <section unique-name="ece_frontpage" source="ece-auto-gen" sourceid="1584dbc3-0a6a-4393-9eef-c3f3c91380a6" name="Template Set" mirror-source="false">
         <unique-name>ece_frontpage</unique-name>
         <directory>frontpage</directory>
         <section-layout>defaultsection</section-layout>
